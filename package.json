@@ -1,0 +1,27 @@
+{
+  "name": "pubeasy.js",
+  "version": "0.0.1",
+  "description": "Node Wrapper for pubeasy.com SOAP API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brutalhonesty/pubeasy.js.git"
+  },
+  "keywords": [
+    "pubeasy",
+    "book",
+    "inventory",
+    "publisher"
+  ],
+  "author": "Adam Schodde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brutalhonesty/pubeasy.js/issues"
+  },
+  "homepage": "https://github.com/brutalhonesty/pubeasy.js",
+  "dependencies": {
+    "request": "^2.47.0",
+    "validator": "^3.22.1",
+    "xml2js": "^0.4.4"
+  }
+}

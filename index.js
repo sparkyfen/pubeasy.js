@@ -1,1 +1,1 @@
-require('./pubeasy.js');
+module.exports = require('./pubeasy.js');
